@@ -1,8 +1,7 @@
 -- import: fastn
 
--- fastn.package: <farhanashirin
->.github.io/<portfolio>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: farhanashirin.github.io/Portfolio
+favicon: /-/farhanashirin.github.io/Portfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
@@ -13,6 +12,6 @@ favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
 
 
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: farhanashirin.github.io/Portfolio/FASTN/ds
+-- fastn.auto-import: farhanashirin.github.io/Portfolio/assets
 -- fastn.auto-import: doc-site
